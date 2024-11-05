@@ -83,9 +83,9 @@
 &lt KLOW CAPS &kp A         &kp S         &kp D         &kp F         &kp G         &kp H         &kp J         &kp K         &kp L         &kp SEMI      &kp SQT
 &kp LSHFT     &kp Z         &kp X         &kp C         &kp V         &kp B         &kp N         &kp M         &kp COMMA     &kp DOT       &kp FSLH      &kp RSHFT
               &kp LEFT     &kp DOWN      &kp UP      &kp RIGHT                                 &kp DOWN      &kp UP        &kp LBKT      &kp RBKT
-                                                        &bt BT_CLR     &kp LCTRL     &kp LBKT      &kp RBKT
-                                                                      &kp DEL     &kp BSPC
-                                            &kp LCTRL     &kp SP      &kp BSPC      &kp DEL       &kp RET       &kp SP
+                                                        &bt BT_CLR     &kp ENTER       &kp LBKT      &kp RBKT
+                                                                      &kp TAB     &kp BSPC
+                                            &kp LCTRL     &kp SP      &kp LGUI      &kp DEL       &kp RET       &kp SP
                      >;
               };
 
