@@ -85,7 +85,7 @@
               &kp LEFT     &kp DOWN      &kp UP      &kp RIGHT                                 &kp DOWN      &kp UP        &kp LBKT      &kp RBKT
                                                         &bt BT_CLR     &kp ENTER       &kp LBKT      &kp RBKT
                                                                       &kp LALT     &kp BSPC
-                                            &kp LCTRL     &kp SP      &kp LGUI      &kp DEL       &kp RET       &kp SP
+                                            &kp LCTRL     &kp SP      &kp BSPC      &kp DEL       &kp RET       &kp SP
                      >;
               };
 
